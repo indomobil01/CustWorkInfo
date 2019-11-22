@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">iDMS - Customer Work Info</string>
+    <string name="Internal_CustWorkInfo_Page">https://livedms.indomobil.co.id/dms-aftersales/GeneralRepair/CustWorkInfo.aspx</string>
+    <string name="External_CustWorkInfo_Page">https://live2dms.indomobil.co.id/dms-aftersales/GeneralRepair/CustWorkInfo.aspx</string>
+</resources>
